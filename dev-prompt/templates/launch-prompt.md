@@ -1,0 +1,1 @@
+Read {{AGENTS.md | CLAUDE.md}} and then {{spec}}/PROJECT.md, {{spec}}/STACK.md{{, ARCHITECTURE.md, TESTING.md}}. Implement only milestone {{M1}} as described in {{spec}}/prompts/{{01-....md}}. Work as the instruction file says, run the validation steps, and report as specified. Do not start the next milestone.

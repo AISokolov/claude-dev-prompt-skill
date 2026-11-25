@@ -1,0 +1,15 @@
+# Personal data produced by using the skill
+.dev-prompt/
+dev-prompt-home/
+profile.md
+profile.md.bak
+
+# Evaluation workspaces (generated)
+*-workspace/
+evals/runs/
+
+# Local tooling and OS files
+.claude/settings.local.json
+.DS_Store
+Thumbs.db
+*.log
